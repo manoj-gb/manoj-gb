@@ -3,7 +3,8 @@
 - 📫 How to reach me ...[LinkedIn](https://www.linkedin.com/in/manoj-g-b-801221291/)
 - 😄 Pronouns: He/Him
 
-<!---
-manoj-gb/manoj-gb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Preferred Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp" />
+
+###  WebDev Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs" />
